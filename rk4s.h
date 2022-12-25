@@ -162,6 +162,7 @@ protected:
 	    break;
 	  case 4:
 	    msg = "System of differential equations is already solved.";
+	    break;
 	  default:
 	    msg = "Something went wrong.";
 	  }
